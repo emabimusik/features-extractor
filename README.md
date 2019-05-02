@@ -41,10 +41,12 @@ and passes each output multiply by 255 (0 -255)for the RGB(Red, Green, Blue) col
  
 The output could be used to control sound, from face mesh captured by the camera.
 
-## How to run
+## Step by Step Instructions
 * Run the file wekinatorbackground.pde
 * Run the FaceOSC file
 * Look at the camera to capture the face mesh.
+* Run the wekinetor from the GUI you can leave everything to default value.
+* Change only the input to 14 inputs from the VideoInput_FacialExpression and 3 outputs.
 * Use the wekinitor output slide to control the backgroud.
 * Record you the background color of you choice as example .
 * Train(Create your models by training your example with wekinator ).
