@@ -1,4 +1,4 @@
-## Features-extractor
+## Features-extractor with FaceOSC_wekinator = VideoInput_FacialExpression_oF_14Inputs
 ## OUTPUT
 A very simple background changing  RBG color made with processing to control the  Wekinator output .
 
