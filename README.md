@@ -3,7 +3,7 @@
 https://github.com/emabimusik/features-extractor.git
 A very simple background changing  RBG color made with processing to control the  Wekinator output . One can use the outputs to control for example a sensor from the face mesh captured by the camera.
 
-This feature  extractor created from FaceOSC 14 inputs (Mac version)  from camera capture, with 3 outputs , processing project to control the 400 x 400 pixel size, for changing background colour ,  with processing 2.2 1 and OSCP5 ( see Readme) library.
+This feature  extractor created from FaceOSC 14 inputs (Mac version)  from camera capture, with 3 outputs , processing project to control the 400 x 400 pixel size canvas, for changing background colour ,  with processing 2.2 1 and OSCP5 ( see Readme) library.
 
 ## INPUT
 FaceOSC library that capture 14 inputs of the face's mesh from the camera. 
