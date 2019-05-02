@@ -1,6 +1,7 @@
 ## Features-extractor with FaceOSC_wekinator = VideoInput_FacialExpression_oF_14Inputs
-## OUTPUT
-A very simple background changing  RBG color made with processing to control the  Wekinator output .
+## The URL of the GitHub repository
+https://github.com/emabimusik/features-extractor.git
+A very simple background changing  RBG color made with processing to control the  Wekinator output . One can use the outputs to control for example a sensor from the face mesh captured by the camera.
 
 ## INPUT
 FaceOSC library that capture 14 inputs of the face's mesh from the camera. 
@@ -43,7 +44,7 @@ The output could be used to control sound, from face mesh captured by the camera
 
 ## Step by Step Instructions
 * Run the file wekinatorbackground.pde
-* Run the FaceOSC file
+* Run the FaceOSC file ( you might run to a crash when you run it  for the first time,as someone said from the forum just drug it from the intial folder to desktop and  back to the initial folder again.)
 * Look at the camera to capture the face mesh.
 * Run the wekinetor from the GUI you can leave everything to default value.
 * Change only the input to 14 inputs from the VideoInput_FacialExpression and 3 outputs.
