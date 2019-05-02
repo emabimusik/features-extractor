@@ -48,8 +48,8 @@ The output could be used to control sound, from face mesh captured by the camera
 * Run the wekinetor from the GUI you can leave everything to default value.
 * Change only the input to 14 inputs from the VideoInput_FacialExpression and 3 outputs.
 * Use the wekinitor output slide to control the backgroud.
-* Record you the background color of you choice as example .
-* Train(Create your models by training your example with wekinator ).
+* Record you the background color of your choice for example data .
+* Train(Create your models by training your example data with wekinator ).
 * Run
-* Look at camera to predict the new unseen background example .
-# One can use the outputs to control for example a sensor from the face mesh capture by the camera.
+* Look at camera to predict the new unseen background data example .
+# One can use the outputs to control for example a sensor from the face mesh captured by the camera.
