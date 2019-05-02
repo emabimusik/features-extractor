@@ -12,9 +12,15 @@ Download OSCP5 from  this website at http://www.sojamo.de/oscP5.
 To add this library to processing go to   menu / Sketch / import library/ addlibrary.
 
 wekinatorbackground.pde 
+
 This  code  get the output value from the OSC Address Pattern 
 It  extract the values from the osc message arguments.
-f1 = output-1,f2 = output-2, f3 = output-3.
+f1 = output-1,
+
+f2 = output-2,
+
+f3 = output-3.
+
 and passes each output multiply by 255 (0 -255)for the RGB(Red, Green, Blue) colors.
 
 
