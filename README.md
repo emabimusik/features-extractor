@@ -47,7 +47,7 @@ The output could be used to control sound, from face mesh captured by the camera
 * Look at the camera to capture the face mesh.
 * Use the wekinitor output slide to control the backgroud.
 * Record you the background color of you choice as example .
-* Train
+* Train(Create your models by training your example with wekinator ).
 * Run
 * Look at camera to predict the new unseen background example .
 # One can use the outputs to control for example a sensor from the face mesh capture by the camera.
