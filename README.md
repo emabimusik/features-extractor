@@ -1,7 +1,7 @@
-# Features-extractor
-#OUTPUT
+## Features-extractor
+##OUTPUT
 A very simple background changed color made with processing to control the  Wekinator output .
-#INPUT
+##INPUT
 FaceOSC library that capture 14 inputs of the face's mesh from the camera. 
 
 Processing 2.2.1 ( could not work properly with Processing 3*)
