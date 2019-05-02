@@ -5,7 +5,7 @@ A very simple background changing  RBG color made with processing to control the
 ## INPUT
 FaceOSC library that capture 14 inputs of the face's mesh from the camera. 
 
-Processing 2.2.1 ( could not work properly with Processing 3*)
+Processing 2.2.1 ( could not work properly with Processing 3*).
 Download OSCP5 from  this website at http://www.sojamo.de/oscP5.
 To add the library to processing go to   menu / Sketch / import library/ addlibrary
 wekinatorbackground.pde file
