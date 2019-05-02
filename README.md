@@ -33,7 +33,7 @@ and passes each output multiply by 255 (0 -255)for the RGB(Red, Green, Blue) col
  x and y position , scale,xy and z orientation, mounth width, mounth height, left and right eye openness,
  jaw openness, nostrill flare.
 
- In VideoInput_FacialExpression_oF_14Inputs folder the is the
+ Found in  VideoInput_FacialExpression_oF_14Inputs folder.
  
  
 
