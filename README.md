@@ -26,7 +26,7 @@ and passes each output multiply by 255 (0 -255)for the RGB(Red, Green, Blue) col
 
 
  FaceOSC with 14 inputs( from the http://www.wekinator.org/examples/)
- The features -extractor send 14 inputs data points(feature vector) .
+ 
  FaceOSC_Wekinator_14Inputs
  
  The FaceOSC send 14 inputs to wekinator ("/wek/inputs ")to port 6448.
