@@ -1,6 +1,6 @@
 ## Features-extractor
 ## OUTPUT
-A very simple background changed color made with processing to control the  Wekinator output .
+A very simple background changing  RBG color made with processing to control the  Wekinator output .
 
 ## INPUT
 FaceOSC library that capture 14 inputs of the face's mesh from the camera. 
