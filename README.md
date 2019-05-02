@@ -33,7 +33,7 @@ and passes each output multiply by 255 (0 -255)for the RGB(Red, Green, Blue) col
  FaceOSC_Wekinator_14Inputs
  
  The FaceOSC send 14 inputs to wekinator ("/wek/inputs ")to port 6448.
- x and y position , scale,xy and z orientation, mounth width, mounth height, left and right eye openness,
+ x and y position , scale,xy and z orientation, mouth width, mouth height, left and right eye openness,
  jaw openness, nostrill flare.
 
  Found in  VideoInput_FacialExpression_oF_14Inputs folder.
